@@ -1,0 +1,36 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+nav li{
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;   
+    display: flex;
+    align-items: center;   
+    color: #000000;
+}
+
+.header__parent{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding:24px 0;
+}
+
+.menu__parent{
+display: flex;
+gap:20px;
+align-items: baseline;
+font-family: 'Gilroy';
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+font-weight: lighter;
+color: #000000;
+}
+

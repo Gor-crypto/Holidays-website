@@ -1,0 +1,48 @@
+.footernav{
+    padding-top: 200px;
+    margin-bottom: 30px;
+}
+
+nav ul{  
+    display: flex;
+    justify-content:center;
+    gap: 200px;
+}
+
+ul li{
+    font-family: Gilroy;
+    font-size: 14px;
+    line-height: 20px;  
+    font-weight: bolder;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin: 40px 0;
+}
+
+.ppp{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.spanfooter {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-family: Gilroy;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: black;
+}
+
+
+hr {
+    width: 80%;
+}
