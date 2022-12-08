@@ -1,7 +1,7 @@
 {
   "name": "newreactapp",
   "version": "0.1.0",
-  "homepage": "https://github.com/Gor-crypto/First_React_App.git",
+  "homepage": "https:/Gor-crypto.github.io/First_React_App.git",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
