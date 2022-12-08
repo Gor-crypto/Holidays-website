@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gor-crypto.github.io/Holidays-website/static/css/main.feab52f1.css",
-    "main.js": "/Gor-crypto.github.io/Holidays-website/static/js/main.a4defbf7.js",
-    "static/media/findGift.png": "/Gor-crypto.github.io/Holidays-website/static/media/findGift.fb97408b8503ae6beca3.png",
-    "static/media/thanks.png": "/Gor-crypto.github.io/Holidays-website/static/media/thanks.2caa491b7c2077f3c685.png",
-    "index.html": "/Gor-crypto.github.io/Holidays-website/index.html",
-    "main.feab52f1.css.map": "/Gor-crypto.github.io/Holidays-website/static/css/main.feab52f1.css.map",
-    "main.a4defbf7.js.map": "/Gor-crypto.github.io/Holidays-website/static/js/main.a4defbf7.js.map"
+    "main.css": "/Holidays-website/static/css/main.feab52f1.css",
+    "main.js": "/Holidays-website/static/js/main.d826c24b.js",
+    "static/media/findGift.png": "/Holidays-website/static/media/findGift.fb97408b8503ae6beca3.png",
+    "static/media/thanks.png": "/Holidays-website/static/media/thanks.2caa491b7c2077f3c685.png",
+    "index.html": "/Holidays-website/index.html",
+    "main.feab52f1.css.map": "/Holidays-website/static/css/main.feab52f1.css.map",
+    "main.d826c24b.js.map": "/Holidays-website/static/js/main.d826c24b.js.map"
   },
   "entrypoints": [
     "static/css/main.feab52f1.css",
-    "static/js/main.a4defbf7.js"
+    "static/js/main.d826c24b.js"
   ]
 }
