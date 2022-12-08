@@ -1,7 +1,7 @@
 {
   "name": "newreactapp",
   "version": "0.1.0",
-  "homepage": "https:/Gor-crypto.github.io/First_React_App.git",
+  "homepage": "https:/Gor-crypto.github.io/Holidays-website",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy":"npm run build",
-    "deploy":"gh pages -d build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
